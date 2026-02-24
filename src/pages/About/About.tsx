@@ -1,5 +1,5 @@
-import GetInTouch from "../GetInTouch/GetInTouch";
-import AboutUs from "./AboutUs";
+import GetInTouch from '../GetInTouch/GetInTouch';
+import AboutUs from './AboutUs';
 
 const About = () => {
   return (
